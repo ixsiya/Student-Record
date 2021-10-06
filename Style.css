@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-image:  url('./background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+div{
+    background-color: darkgrey;
+    opacity: 0.8;
+}
+h1{
+    color: red;
+}
+h3{
+    color:green
+}
+ label{
+     color: blue;
+     font-size: 25px;
+ }
+ span{
+     color:purple;
+     font-size: 25px;
+ }
